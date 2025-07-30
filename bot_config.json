@@ -1,0 +1,8 @@
+{
+    "TELEGRAM_BOT_TOKEN": "8144630456:AAHzzXtLboW2ZksvoPSl13-9WlV81PJzoX0",
+    "ALLOWED_CHAT_ID": 7835083805,
+    "STREAM_SCRIPT_PATH": "streamer.py",
+    "PID_FILE": "stream_process.pid",
+    "LOG_FILE": "ffmpeg_log.txt",
+    "VIDEOS_DIR": "uploaded_videos"
+}

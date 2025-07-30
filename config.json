@@ -1,0 +1,11 @@
+{
+    "STREAM_URL": "rtmp://a.rtmp.youtube.com/live2",
+    "VIDEO_EXTENSIONS": [".mp4", ".mkv", ".avi", ".mov", ".flv", ".webm"],
+    "KEY_FILENAME": "keystream.txt",
+    "RETRY_LIMIT": 5,
+    "LOG_FILE": "ffmpeg_log.txt",
+    "TIMEZONE": "Asia/Makassar",
+    "FFMPEG_PRESET": "veryfast",
+    "VIDEO_BITRATE_KBPS": 2500,
+    "AUDIO_BITRATE_KBPS": 128
+}
